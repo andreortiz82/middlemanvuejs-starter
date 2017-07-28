@@ -22,7 +22,7 @@ Not much but check it...
 - __middlemanvuejs-starter__
   - [Gemfile](middlemanvuejs-starter/Gemfile)
   - [Gemfile.lock](middlemanvuejs-starter/Gemfile.lock)
-  - [Rakefile](/middlemanvuejs-starter/Rakefile)
+  - [Rakefile](/Rakefile)
   - [config.rb](middlemanvuejs-starter/config.rb)
   - [list.md](middlemanvuejs-starter/list.md)
   - [node_modules](middlemanvuejs-starter/node_modules)
