@@ -20,26 +20,23 @@ Ok, almost there. After all the libs for both NPM and Middleman have been added 
 Not much but check it...
 
 - __middlemanvuejs-starter__
-  - [Gemfile](middlemanvuejs-starter/Gemfile)
-  - [Gemfile.lock](middlemanvuejs-starter/Gemfile.lock)
+  - [Gemfile](/Gemfile)
+  - [Gemfile.lock](/Gemfile.lock)
   - [Rakefile](/Rakefile)
-  - [config.rb](middlemanvuejs-starter/config.rb)
-  - [list.md](middlemanvuejs-starter/list.md)
-  - [node_modules](middlemanvuejs-starter/node_modules)
-  - [out.txt](middlemanvuejs-starter/out.txt)
-  - [package-lock.json](middlemanvuejs-starter/package-lock.json)
-  - [package.json](middlemanvuejs-starter/package.json)
+  - [config.rb](/config.rb)
+  - [package-lock.json](/package-lock.json)
+  - [package.json](/package.json)
   - __source__
     - __images__
-    - [index.html.erb](middlemanvuejs-starter/source/index.html.erb)
+    - [index.html.erb](/source/index.html.erb)
     - __javascripts__
       - __components__
-        - [App.vue](middlemanvuejs-starter/source/javascripts/components/App.vue)
-        - [Brick.vue](middlemanvuejs-starter/source/javascripts/components/Brick.vue)
-      - [site.js](middlemanvuejs-starter/source/javascripts/site.js)
+        - [App.vue](/source/javascripts/components/App.vue)
+        - [Brick.vue](/source/javascripts/components/Brick.vue)
+      - [site.js](/source/javascripts/site.js)
     - __layouts__
-      - [layout.erb](middlemanvuejs-starter/source/layouts/layout.erb)
+      - [layout.erb](/source/layouts/layout.erb)
     - __stylesheets__
-      - [site.css.scss](middlemanvuejs-starter/source/stylesheets/site.css.scss)
-  - [webpack.config.js](middlemanvuejs-starter/webpack.config.js)
+      - [site.css.scss](/source/stylesheets/site.css.scss)
+  - [webpack.config.js](/webpack.config.js)
 
